@@ -1,7 +1,7 @@
 Javascript Array Search
 =========================
 
-This is a simple set of javascript / html & CSS files that will allow the user to search for values stored in a javascript array.
+This is a simple set of javascript / html & CSS files that will create a UI to allow the user to search for values stored in a javascript array.
 
 --------------------------------------------------------------------------------
 
@@ -11,7 +11,8 @@ Note: This script requires jquery.
 
 Insert the html, css and javascript into your project in a way that fits with you workflow. 
 
-In the javascript you will see the jsarray variable. This is the array that will be searched. You can build this by writing a custom function if it needs to be dynamic or just hardcoding in a set of values if it doesn't.
+In the javascript you will see the jsarray variable. This is the array that will be searched. You can generate this by writing a custom function to grab the data if it needs to be dynamic or just hardcoding in a set of values if it doesn't.
+
 
 If you wish to create an array of integers instead of strings you will want to un-comment line 18:
 
