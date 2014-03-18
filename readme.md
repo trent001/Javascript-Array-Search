@@ -14,7 +14,7 @@ Insert the html, css and javascript into your project in a way that fits with yo
 In the javascript you will see the jsarray variable. This is the array that will be searched. You can generate this by writing a custom function to grab the data if it needs to be dynamic or just hardcoding in a set of values if it doesn't.
 
 
-If you wish to create an array of integers instead of strings you will want to un-comment line 18:
+If you wish to create an array of integers instead of strings you will want to un-comment line 18 of script.js:
 
 //var current_value_int = +jQuery('#postcode-input-field').val();
 
