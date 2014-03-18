@@ -21,3 +21,6 @@ and use the current_value_int variable as the first parameter in the inArray fun
 
 if(jQuery.inArray(current_value_int, jsarray) > -1 ){
 
+--------------------------------------------------------------------------------------
+
+[Demo Here](http://trent001.github.io/Javascript-Array-Search/)
