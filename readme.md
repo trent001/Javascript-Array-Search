@@ -24,4 +24,4 @@ if(jQuery.inArray(current_value_int, jsarray) > -1 ){
 
 --------------------------------------------------------------------------------------
 
-[Demo Here](http://trent001.github.io/Javascript-Array-Search/)
+[Demo Here](http://trenthogan.github.io/Javascript-Array-Search/)
