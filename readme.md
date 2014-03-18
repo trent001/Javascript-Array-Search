@@ -16,15 +16,11 @@ In the javascript you will see the jsarray variable. This is the array that will
 
 If you wish to create an array of integers instead of strings you will want to un-comment line 18 of script.js:
 
- ```javascript
-//var current_value_int = +jQuery('#postcode-input-field').val();
- ```javascript
+`//var current_value_int = +jQuery('#postcode-input-field').val();`
 
 and use the current_value_int variable as the first parameter in the inArray function below on line 22:
 
- ```javascript
-if(jQuery.inArray(current_value_int, jsarray) > -1 ){
- ```javascript
+`if(jQuery.inArray(current_value_int, jsarray) > -1 ){`
 
 --------------------------------------------------------------------------------------
 
