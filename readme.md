@@ -18,11 +18,13 @@ If you wish to create an array of integers instead of strings you will want to u
 
  ```javascript
 //var current_value_int = +jQuery('#postcode-input-field').val();
+ ```javascript
 
 and use the current_value_int variable as the first parameter in the inArray function below on line 22:
 
  ```javascript
 if(jQuery.inArray(current_value_int, jsarray) > -1 ){
+ ```javascript
 
 --------------------------------------------------------------------------------------
 
